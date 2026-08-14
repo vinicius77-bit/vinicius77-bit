@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./downloand.svg">
+  <img src="./download.svg">
 </p>
 
 ## Olá! Eu sou o Vinicius Adolfo Silveira

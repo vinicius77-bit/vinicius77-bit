@@ -10,7 +10,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+
 
 <p align="center">
   <img width="250" src="./minato.gif">
@@ -23,10 +23,6 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
 
 
 

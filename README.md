@@ -5,14 +5,14 @@
 
 ## Olá! Eu sou o Vinicius Adolfo Silveira
 
-
+- Sobre mim
 - 🔭 Atualmente estudando
 - 🌱 Moro no Brasil
-- ⚡ analise e desenvolvimento de sistemas
+- ⚡interesse em analise e desenvolvimento de sistemas
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%24+whoami;root%40github%3A~%24+Welcome+to+my+profile;Initializing+system...;Access+granted+%E2%9C%93;Developer+%7C+Coder+%7C+Hacker" alt="Terminal Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=%24+whoami;root%40github%3A~%24+Welcome+to+my+profile;Initializing+system...;Access+granted+%E2%9C%93;Developer+%7C+Coder+%7C+Hacker" alt="Terminal Hacker" />
 </p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -21,10 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-
-<p align="center">
-  <img width="250" src="./minato.gif">
-</p>
 
 
 <p align="center">

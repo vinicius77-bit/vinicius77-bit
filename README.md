@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./dowload.svg" width="100%" alt="Vinicius Adolfo - Fullstack Developer">
+  <img src="./dowloand.svg">
 </p>
 
 ## Olá! Eu sou o Vinicius Adolfo Silveira

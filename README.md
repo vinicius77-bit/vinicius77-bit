@@ -16,9 +16,9 @@
 </p>
 
 <div>
-  <a href="https://github.com/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/vinicius77-bit">
+    <img height="180em" src="https://github-stats-fast.vercel.app/api?username=vinicius77-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-stats-fast.vercel.app/api/top-langs/?username=vinicius77-bit&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 

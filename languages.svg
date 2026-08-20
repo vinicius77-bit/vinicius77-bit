@@ -1,0 +1,55 @@
+<svg width="450" height="190" viewBox="0 0 450 190" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="446" height="186" rx="8"
+        fill="#0b0b0b" stroke="#ff0000" stroke-width="2"/>
+
+  <text x="25" y="32" fill="#ff3333"
+        font-family="Arial" font-size="17" font-weight="bold">
+    Most Used Languages
+  </text>
+
+  <!-- barra -->
+  <rect x="25" y="50" width="390" height="12" rx="5" fill="#222222"/>
+
+  <rect x="25" y="50" width="140" height="12" fill="#ff0000"/>
+  <rect x="165" y="50" width="113" height="12" fill="#cc0000"/>
+  <rect x="278" y="50" width="82" height="12" fill="#660000"/>
+  <rect x="360" y="50" width="55" height="12" fill="#ffffff"/>
+
+  <!-- Python -->
+  <rect x="28" y="78" width="10" height="10" fill="#ff0000"/>
+  <text x="45" y="88" fill="#ffffff"
+        font-family="Arial" font-size="13">
+    Python 35.8%
+  </text>
+
+  <!-- JavaScript -->
+  <rect x="220" y="78" width="10" height="10" fill="#cc0000"/>
+  <text x="237" y="88" fill="#ffffff"
+        font-family="Arial" font-size="13">
+    JavaScript 29.0%
+  </text>
+
+  <!-- HTML -->
+  <rect x="28" y="108" width="10" height="10" fill="#660000"/>
+  <text x="45" y="118" fill="#ffffff"
+        font-family="Arial" font-size="13">
+    HTML 21.1%
+  </text>
+
+  <!-- C# -->
+  <rect x="220" y="108" width="10" height="10" fill="#ffffff"/>
+  <text x="237" y="118" fill="#ffffff"
+        font-family="Arial" font-size="13">
+    C# 14.1%
+  </text>
+
+  <text x="25" y="155" fill="#777777"
+        font-family="Arial" font-size="11">
+    Customized statistics
+  </text>
+
+  <text x="25" y="172" fill="#ff3333"
+        font-family="Arial" font-size="11">
+    github.com/vinicius77-bit
+  </text>
+</svg>

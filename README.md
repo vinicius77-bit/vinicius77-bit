@@ -10,10 +10,13 @@
 - 🌱 Moro no Brasil
 - ⚡interesse em analise e desenvolvimento de sistemas
 
+<br><br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&chart_color=ff0000&border_color=ff0000" width="48%" />
 </p>
+
+<br><br>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius77-bit&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 
@@ -24,10 +27,6 @@
 
 
 
-<div align="center">
-  <img src="./stats.svg" width="450">
-  <img src="./languages.svg" width="450">
-</div>
 
 
 

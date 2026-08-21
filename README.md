@@ -11,9 +11,14 @@
 - ⚡interesse em analise e desenvolvimento de sistemas
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=%24+whoami;root%40github%3A~%24+Welcome+to+my+profile;Initializing+system...;Access+granted+%E2%9C%93;Developer+%7C+Coder+%7C+Hacker" alt="Terminal Hacker" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius77-bit&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius77-bit&bg_color=0d0d0d&color=ff0000&title_color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true&custom_title=Vinicius%2077%20-%20Coding%20Activity)
+
+
+
+
+
 
 <div align="center">
   <img src="./stats.svg" width="450">

@@ -12,6 +12,10 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!;%3E+Welcome+to+my+GitHub...;%3E+Initializing+system...;%3E+Access+granted.">
+
+<br><br>
+
 MY SKILLS
 
 <p align="center">

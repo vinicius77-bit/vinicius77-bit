@@ -32,20 +32,14 @@ MY SKILLS
 <br><br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&chart_color=ff0000&border_color=ff0000" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&chart_color=ff0000&border_color=ff0000" width="42%" />
 </p>
 
 <br><br>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinicius77-bit&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kk&theme=github-dark&hide_border=true&color=ff0000&line=ff0000&point=ff0000&area_color=ff0000&area=true" width="95%" />
+</p>
 
 
 
